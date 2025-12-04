@@ -407,8 +407,8 @@ df_fact_sales.show(5)
 
 # Snowflake connection parameters
 sfOptions = {
-    "sfURL": "#typre-your-account#.snowflakecomputing.com",
-    "sfAccount": "#typre-your-account#",
+    "sfURL": "#type-your-account#.snowflakecomputing.com",
+    "sfAccount": "#type-your-account#",
     "sfUser": "spark_user",
     "sfPassword": "spark_password",
     "sfDatabase": "sales_weather_db",
